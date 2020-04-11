@@ -1,0 +1,2 @@
+mx106_description
+-DCATKIN_DEVEL_PREFIX=/home/noreply/ManipulatorMX106/devel -DCMAKE_INSTALL_PREFIX=/home/noreply/ManipulatorMX106/install -G Unix Makefiles
